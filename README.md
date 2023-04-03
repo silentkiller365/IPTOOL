@@ -14,6 +14,7 @@
 
 * Linux
 <center><h1>Usage</h1></center>
-    python IPTOOL.py
+    python IPTOOL.py - notworking 
+    python IPTOOL2.py- working✅
     
  
