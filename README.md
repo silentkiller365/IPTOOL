@@ -13,5 +13,7 @@
 ## Tested On ✨️
 
 * Linux
-
+<center><h1>Usage</h1></center>
+    python IPTOOL.py
+    
  
